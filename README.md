@@ -6,3 +6,5 @@ I am a student @HarvardX CS50x CS50's Introduction to Computer Science
 
 * 🌍  I'm based in New Brunswick -Canada
 * ✉️  You can contact me at [vanessarichaves@icloud.com)
+## What I don't know, give me a few days 😁
+[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=vanessarichaves&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/peguimasid)
