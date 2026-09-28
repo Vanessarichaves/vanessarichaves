@@ -4,6 +4,6 @@ I'm an accountant studying software engineering. I love coding and figuring out 
 
 I am a student @HarvardX CS50x CS50's Introduction to Computer Science
 
-* 🌍  I'm based in New Brunswick -Canada
-* ✉️  You can contact me at [vanessarichaves@icloud.com)
+* 🌍  I'm based in Canada
+* ✉️  You can contact me
 ## What I don't know, give me a few days 😁
